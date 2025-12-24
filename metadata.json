@@ -1,0 +1,7 @@
+{
+  "name": "AutoProspect AI module 2",
+  "description": "An all-in-one AI sales automation platform. Search for leads using live web data, generate personalized outreach emails, and manage your pipeline in a unified interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
