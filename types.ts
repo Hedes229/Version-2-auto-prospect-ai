@@ -28,6 +28,10 @@ export interface Lead {
   // Context for what we are selling to this lead
   offeringDetails?: string;
 
+  // Qualification Data
+  qualificationScore?: number; // 0 to 100
+  qualificationReason?: string;
+
   // A/B Testing Data
   variantA_Subject?: string;
   variantA_Body?: string;
